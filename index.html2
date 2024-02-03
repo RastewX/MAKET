@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title>characters</title>
+<link href="style2.css" type="text/css" rel="stylesheet">
+  </head>
+    <body>
+        <header>
+            <h1>NYAN~ NEKO SUGAR GIRLS</h1>
+            <h2>Страница главных героев</h2>
+        </header>
+        <main>
+            <table>
+                <tr>
+                    <td rowspan="2"> <img class="ch" src="https://github.com/RastewX/MAKET/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B814.png?raw=true"></td>
+                    <td class="h">Хитоши-сан</td>
+                </tr>
+                <tr>
+                    <td>Хитоши-сан ( яп. 等しいさん Hitoshii-san) - один из главных героев сериала Nyan~ Neko Sugar Girls. Он любовный интерес Раку-тян. Он, как правило, является объектом шуток в сериале и часто заканчивает свои предложения фразой "Nya, rawr~".</td>
+                </tr>
+            </table>
+            <p></p>
+            <table>
+                <tr>
+                    <td rowspan="2"> <img class="ch" src="https://github.com/RastewX/MAKET/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B815.png?raw=true"></td>
+                    <td class="h">Раку-чан</td>
+                </tr>
+                <tr>
+                    <td>Раку-тян ( яп. 楽ちゃん) - главная героиня Nyan~ Neko Sugar Girls. Она веселая, общительная девушка-кошка, которая любит проводить время со своими друзьями Конеко-чан и Хитоши-сан. Она часто использует японские фразы, такие как "kawaii", "sugoi", "nya" и "desu", когда разговаривает.</td>
+                </tr>
+            </table>
+            <p></p>
+            <table>
+                <tr>
+                    <td rowspan="2"> <img class="ch" src="https://github.com/RastewX/MAKET/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B816.png?raw=true"></td>
+                    <td class="h">Конеко-чан</td>
+                </tr>
+                <tr>
+                    <td>Конеко-тян ( яп. 子猫ちゃん) - одна из главных героинь Nyan~ Neko Sugar Girls и лучшая подруга Раку-тян. Конеко-тян - спокойная и сдержанная, самая взрослая из своей группы друзей. Она также любит готовить зеленый чай. В первой серии она встретила Хитоси-сана и быстро с ним подружилась.
+</td>
+                </tr>
+            </table>
+        <h1>На главную</h1>
+        </main>
+        <footer>
+            <p>Источник:</p>
+            <a href="https://nyan-nekosugargirls.fandom.com/wiki/Nyan~_Neko_Sugar_Girls_Wiki">Neko Sugar Girls Wiki</a>
+        </footer>
+    </body>
+</html>
