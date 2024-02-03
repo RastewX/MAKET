@@ -1,0 +1,34 @@
+<head>
+<title>page1</title>
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+style.css
+
+<html>
+    <body>
+        <header>
+            <h1>NYAN~ NEKO SUGAR GIRLS</h1>
+            <h2>Также известно как にゃん～ 砂糖 猫 女の子, Nyan~ Satō Neko On'na Noko</h2>
+        </header>
+        <main>
+            <h2>История, переворачивающая жизни.</h2>
+            <img src="https://raw.githubusercontent.com/RastewX/MAKET/59043d8821f3cd8f13803b846d03a03b031b0d97/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B812.png">
+            <p>Nyan~ Neko Sugar Girls (にゃん～ 砂糖 猫 女の子, Nyan~ Satō Neko On'na Noko), часто сокращенно фанатами как NNSG, — это фанатский сериал, созданный SoapOpera46. Всего сериал состоит из 11 эпизодов и рождественского выпуска с участием трех главных героев Раку-чан, Конеко-чан и Хитоши-сан. Не имеет официального перевода на русский язык.</p>
+            <img src="https://raw.githubusercontent.com/RastewX/MAKET/6d4753a3340ed03f39c5ade51c11a708bd714639/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B813.png">
+            <p>Первый эпизод вышел 10 апреля в 2010 году на видеохостинговой платформе Youtube и набрал 2 373 123 просмотра. Последний эпизод вышел 25 декабря 2012 года, на создание ушло 2 года. История повествует о трех друзьях: Раку-чан, Конеко-чан и Хитоши-сан. Вместе они преодолевают препятствия предательства, смерти и печали. Это очень душевная история, которая учит любить, биться и стараться ради дорогих людей.</p>
+            <h2>Персонажи.</h2>
+            <img class="ch" src="https://github.com/RastewX/MAKET/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B814.png?raw=true">
+<p class="ch1">Раку-чан</p>
+            <img class="ch" src="https://github.com/RastewX/MAKET/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B815.png?raw=true">
+<p class="ch1">Конеко-чан</p>
+            <img class="ch" src="https://github.com/RastewX/MAKET/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B816.png?raw=true">
+         <p class="ch1">Хитоши-сан</p>
+        <h1>К персонажам</h1>
+        </main>
+        <footer>
+            <p>Источник:</p>
+            <a href="https://nyan-nekosugargirls.fandom.com/wiki/Nyan~_Neko_Sugar_Girls_Wiki">Neko Sugar Girls Wiki</a>
+        </footer>
+    </body>
+</html>
